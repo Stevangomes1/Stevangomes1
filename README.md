@@ -27,7 +27,6 @@ Fatos sobre mim:
   <a href="https://www.linkedin.com/in/stevan-gomes-186a52202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
 
-![Snake animation](https://github.com/Stevangomes1/Stevangomes1/blob/output/github-contribution-grid-snake.svg)
  
  <p align = "center">
  <img height="285em" src="https://activity-graph.herokuapp.com/graph?username=Stevangomes1&theme=xcode">
