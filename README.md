@@ -18,6 +18,7 @@ Fatos sobre mim:
   <img align="center" alt="Stevan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Stevan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Stevan-Java" height="30" width="40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Stevan-Git" height="30" width="40" src = "[https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg](https://img.icons8.com/?size=50&id=12599&format=png)">
 </div>  
  
 ##
